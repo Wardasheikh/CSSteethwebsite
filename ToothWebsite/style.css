@@ -1,0 +1,132 @@
+
+
+.header {
+    display: flex;
+}
+
+
+.logo>img {
+    height: 150px;
+}
+
+.header {
+    margin-left: 30px;
+    padding: 10px;
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+.list>li {
+    padding: 55px;
+    display: inline-block;
+    margin-left: 50px;
+    font-size: larger;
+    text-align: center;
+}
+
+
+.hint {
+    background: #49dba6;
+    background: linear-gradient(rgb(175, 223, 175));
+    text-align: center;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+a{color: rgb(5, 139,139);}
+
+
+
+
+
+
+.a {
+    color: rgb(115, 172, 172);
+}
+
+
+.one {
+    border: 1px solid rgb(245, 56, 204);
+    background-color: rgb(185, 177, 215);
+    border-radius: 20px;
+    width: 300px;
+    margin: 10px 20px 5px 5px;
+    height: auto;
+    text-align: justify;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+.two {
+    border: 1px solid pink;
+    background-color: pink;
+    border-radius: 20px;
+    width: 300px;
+    margin: 10px 20px 5px 2px;
+    height: auto;
+    text-align: justify;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+.three {
+    border: 1px solid pink;
+    background-color: rgb(196, 135, 196);
+    border-radius: 20px;
+    width: 300px;
+    margin: 10px 20px 5px 2px;
+    height: auto;
+    text-align: justify;
+    padding: 20px;
+}
+
+
+
+
+
+.main {
+    display: flex;
+    text-align: center;
+    margin-left: 6%;
+
+}
+
+
+
+
+
+.text {
+    color: green;
+    margin-top: 65px;
+    margin-left: 100px;
+
+
+}
+
+
+
+
+.head {
+    color: grey;
+    margin-top: 60px;
+    font-size: 25px;
+;
+
+
+}
